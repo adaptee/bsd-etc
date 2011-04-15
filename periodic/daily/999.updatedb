@@ -1,0 +1,6 @@
+#!/bin/sh
+#
+# $FreeBSD$
+#
+
+/usr/libexec/locate.updatedb
